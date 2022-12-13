@@ -1,0 +1,8 @@
+com\alex\library\dao\PeopleDAO.class
+com\alex\library\configurations\ConfigMVCDispatcherServlet.class
+com\alex\library\contoller\BookController.class
+com\alex\library\dao\BookDAO.class
+com\alex\library\configurations\SpringConfiguration.class
+com\alex\library\models\Book.class
+com\alex\library\contoller\PeopleController.class
+com\alex\library\models\People.class
